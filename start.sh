@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="br.com.gustacorp.main.App" -X
